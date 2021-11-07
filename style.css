@@ -1,0 +1,53 @@
+.Input {
+    margin: 10px;
+    border-radius: 20px;
+}
+
+#button1 {
+    color: greenyellow ;
+    background-color: green ;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+#button2 {
+    display: none;
+    color: lightskyblue ;
+    background-color: rgb(31, 100, 168) ;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+#button3 {
+    display: none;
+    color:rgb(119, 8, 8) ;
+    background-color:indianred ;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+#div1 {
+    background-color: greenyellow;
+    border: 1px solid green;
+    color: black;
+    border-radius: 15px;
+    padding: 10px;
+    width: 50%;
+}
+
+#div2 {
+    background-color: indianred;
+    border: 1px solid rgb(119, 8, 8);
+    color: black;
+    border-radius: 15px;
+    padding: 10px;
+    width: 50%;
+}
+
+.Button {
+    margin-top: 20px;
+}
+
+#text1 {
+    font-size: 50px;
+}
